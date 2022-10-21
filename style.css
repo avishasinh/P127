@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+}
+
+#score{
+    float: left;
+}
+
+#timer{
+    float: right ;
+    margin-right: 50px;
+}
+
+#drawSketch{
+    color: blue;
+}
+
+canvas{
+    background-color: white;
+    border: 5px solid black;
+    border-radius: 10px;
+}
